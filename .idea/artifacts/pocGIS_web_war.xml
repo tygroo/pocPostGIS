@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pocGIS.web:war">
+    <output-path>$PROJECT_DIR$/pocGIS.web/target</output-path>
+    <root id="archive" name="pocGIS.web-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pocGIS.web:war exploded" />
+    </root>
+  </artifact>
+</component>

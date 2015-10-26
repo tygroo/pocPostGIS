@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PocGIS.iml" filepath="$PROJECT_DIR$/PocGIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pocGIS.core.iml" filepath="$PROJECT_DIR$/pocGIS.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pocGIS.domaine.iml" filepath="$PROJECT_DIR$/pocGIS.domaine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pocGIS.web.iml" filepath="$PROJECT_DIR$/pocGIS.web.iml" />
+    </modules>
+  </component>
+</project>
