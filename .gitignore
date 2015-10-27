@@ -3,4 +3,6 @@
 Servers/
 RemoteSystemsTempFiles/
 PocGIS/.idea/
+PocGIS/*.iml
+PocGIS/*.eml
 
