@@ -2,14 +2,14 @@ package domain.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-import javax.persistence.Index;
 
 /**
  * Created by bbonheur on 26/10/2015.
  */
 @Entity
 public class SpacialRefSys {
-    @Id
+    
+	@Id
     protected Integer srid;
 
     protected String auth_name;
