@@ -9,7 +9,7 @@ import javax.persistence.ManyToOne;
 /**
  * Person entity
  * 
- * @author DevCrumb.com
+ * @author bbonheur
  */
 @Entity
 public class Person {

@@ -13,9 +13,9 @@ import javax.persistence.NamedEntityGraph;
 import javax.persistence.OneToMany;
 
 import org.hibernate.annotations.GenericGenerator;
-import org.hibernate.annotations.Type;
 
 import com.vividsolutions.jts.geom.Point;
+import org.hibernate.annotations.Type;
 
 @Entity
 @NamedEntityGraph(name = "Event.detail", attributeNodes = @NamedAttributeNode("persons"))
