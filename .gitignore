@@ -7,4 +7,5 @@ PocGIS/*.iml
 PocGIS/*.eml
 PocGIS/*/target/
 PocGIS/*/bin/
+*/.ideas/
 
