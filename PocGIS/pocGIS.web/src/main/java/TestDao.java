@@ -13,7 +13,7 @@ public class TestDao {
 SpacialRefSysDAO srs;
 
 List<SpacialRefSys> getAllSpac(){
-	srs.
+
 	return null;
 	
 }
